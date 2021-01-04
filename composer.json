@@ -1,0 +1,13 @@
+{
+    "require": {
+        "catfan/medoo": "^1.7"
+    },
+	"repositories": [
+        {"type": "composer", "url": "https://mirrors.aliyun.com/composer/"},
+        {"packagist": false}
+    ],
+    "config" : {  
+        "vendor-dir" : "packages",
+        "secure-http": false  
+	}
+}
