@@ -12,5 +12,6 @@
     "config" : {  
         "vendor-dir" : "packages",
         "secure-http": false  
-	}
+	},
+    "license": "MIT"
 }
