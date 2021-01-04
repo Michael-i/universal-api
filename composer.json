@@ -1,4 +1,7 @@
 {
+    "name": "fire-scheme/universal-api",
+    "version": "1.0.0",
+    "description": "universal-api",
     "require": {
         "catfan/medoo": "^1.7"
     },
